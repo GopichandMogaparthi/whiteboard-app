@@ -1,2 +1,2 @@
 # whiteboard-app
-Real-time Collaborative Whiteboard application
+Real-Time Collaborative Whiteboard application
