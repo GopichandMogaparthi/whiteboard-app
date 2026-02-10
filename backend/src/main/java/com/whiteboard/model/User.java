@@ -59,8 +59,4 @@ public class User {
 	public void setAvatarColor(String avatarColor) {
 		this.avatarColor = avatarColor;
 	}
-	
-	
-	
-
 }
